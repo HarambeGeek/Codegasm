@@ -33,6 +33,7 @@ namespace DrunkPC
         static void Main(string[] args)
         {
             Console.WriteLine("DrunkPC Prank Application by: Jerry (aka. Barnacules)");
+            Console.WriteLine("Just a test using GitHub");
 
             // Check for command line arguments and assign the new values
             if( args.Length >= 2 )
